@@ -1,20 +1,20 @@
-Hyundai Accent, 2007 (329000 руб.) url: https://omsk.drom.ru/hyundai/accent/50046306.html
-Nissan Almera, 2017 (519000 руб.) url: https://omsk.drom.ru/nissan/almera/49945160.html
-Nissan Qashqai, 2011 (829000 руб.) url: https://omsk.drom.ru/nissan/qashqai/48949346.html
-Лада Ларгус, 2018 (885000 руб.) url: https://omsk.drom.ru/lada/largus/49933086.html
-Honda Freed, 2012 (920000 руб.) url: https://omsk.drom.ru/honda/freed/49925532.html
-JAC S7, 2021 (2295000 руб.) url: https://omsk.drom.ru/jac/s7/45933617.html
-Honda Civic Ferio, 1997 (199999 руб.) url: https://omsk.drom.ru/honda/civic_ferio/49942309.html
-Volkswagen Tiguan, 2021 (3150000 руб.) url: https://omsk.drom.ru/volkswagen/tiguan/49581109.html
-Nissan DAYZ, 2013 (564000 руб.) url: https://omsk.drom.ru/nissan/dayz/49296768.html
-Toyota Land Cruiser, 2016 (5791000 руб.) url: https://omsk.drom.ru/toyota/land_cruiser/49301461.html
-Lexus GS350, 2015 (2569000 руб.) url: https://omsk.drom.ru/lexus/gs350/49373357.html
-Nissan Almera, 2013 (578000 руб.) url: https://omsk.drom.ru/nissan/almera/49719014.html
-Suzuki SX4, 2012 (632000 руб.) url: https://omsk.drom.ru/suzuki/sx4/49042309.html
-Honda Freed, 2011 (911000 руб.) url: https://omsk.drom.ru/honda/freed/49740810.html
-Toyota Corolla Fielder, 2017 (1229000 руб.) url: https://omsk.drom.ru/toyota/corolla_fielder/49755984.html
-Hyundai Sonata, 2012 (1046000 руб.) url: https://omsk.drom.ru/hyundai/sonata/49813058.html
-Ford Kuga, 2011 (611000 руб.) url: https://omsk.drom.ru/ford/kuga/49816299.html
-Toyota Vitz, 2018 (949000 руб.) url: https://omsk.drom.ru/toyota/vitz/49816301.html
-Haval H6, 2017 (1449000 руб.) url: https://omsk.drom.ru/haval/h6/49869087.html
-Peugeot 3008, 2012 (789000 руб.) url: https://omsk.drom.ru/peugeot/3008/49973174.html
+Opel Corsa, 2011 (599000 руб.) url: https://perm.drom.ru/opel/corsa/50129858.html
+Toyota Corolla, 2014 (915000 руб.) url: https://perm.drom.ru/toyota/corolla/49741558.html
+Lifan X60, 2017 (849000 руб.) url: https://perm.drom.ru/lifan/x60/50134623.html
+Suzuki Swift, 2013 (880000 руб.) url: https://perm.drom.ru/suzuki/swift/50134624.html
+Nissan Navara, 2014 (1530000 руб.) url: https://perm.drom.ru/nissan/navara/50142299.html
+BMW X3, 2012 (1599000 руб.) url: https://perm.drom.ru/bmw/x3/50142295.html
+Suzuki Jimny, 2007 (710000 руб.) url: https://perm.drom.ru/suzuki/jimny/50147406.html
+Лада Гранта, 2021 (769000 руб.) url: https://perm.drom.ru/lada/granta/50147403.html
+Volkswagen Polo, 2017 (942000 руб.) url: https://perm.drom.ru/volkswagen/polo/49825842.html
+Kia Picanto, 2018 (1069000 руб.) url: https://perm.drom.ru/kia/picanto/50159863.html
+Kia Sportage, 2015 (1580000 руб.) url: https://perm.drom.ru/kia/sportage/50156011.html
+Лада Гранта, 2020 (651000 руб.) url: https://perm.drom.ru/lada/granta/50167182.html
+Volkswagen Polo, 2018 (965000 руб.) url: https://perm.drom.ru/volkswagen/polo/50167179.html
+Subaru XV, 2013 (1180000 руб.) url: https://perm.drom.ru/subaru/xv/50172460.html
+Mitsubishi ASX, 2011 (820000 руб.) url: https://perm.drom.ru/mitsubishi/asx/49512914.html
+Лада Нива Тревел, 2022 (998000 руб.) url: https://perm.drom.ru/lada/niva_travel/49428813.html
+Hyundai ix35, 2013 (1090000 руб.) url: https://perm.drom.ru/hyundai/ix35/49547997.html
+Hyundai Tucson, 2022 (2990000 руб.) url: https://perm.drom.ru/hyundai/tucson/49754724.html
+Kia Seltos, 2021 (2270000 руб.) url: https://perm.drom.ru/kia/seltos/49965906.html
+Skoda Rapid, 2021 (1485000 руб.) url: https://perm.drom.ru/skoda/rapid/49746550.html
